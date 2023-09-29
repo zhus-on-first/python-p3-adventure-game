@@ -25,3 +25,5 @@ Requirements
 4. Rogue - An expert in stealth, precision, and cunning.
 5. Paladin - A holy knight with melee skills and magical abilities.
 6. Bard - A jack of many trades that uses performance skills and magic.
+
+Thank you.
